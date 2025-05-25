@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://sovy.app" style="background: white; display: flex; align-items: center; justify-content: center; width: 200px; padding: 16px 24px; border-radius: 16px;">
-    <img src="https://sovy.app/_next/image?url=%2Fsovy.svg&w=256&q=75" alt="Sovy.app">
+    <img src="https://sovy.app/sovy-gray.svg" alt="Sovy.app">
   </a>
   <h1 align="center">Amazon SES Sync Action</h1>
   <br />
